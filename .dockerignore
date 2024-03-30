@@ -3,3 +3,4 @@ Dockerfile
 docker-compose*
 .env
 /nginx
+app_architecture.png
